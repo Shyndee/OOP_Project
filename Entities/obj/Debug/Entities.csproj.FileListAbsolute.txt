@@ -1,0 +1,47 @@
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\bin\Debug\Entities.exe.config
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\bin\Debug\Entities.pdb
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\obj\Debug\Entities.exe
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\obj\Debug\Entities.pdb
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\bin\Debug\MyClasses.exe
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\bin\Debug\MyClasses.pdb
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\bin\Debug\MyClasses.exe.config
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\bin\Debug\Entities.exe.config
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\bin\Debug\Entities.pdb
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.exe
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.pdb
+C:\Users\User\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\bin\Debug\Entities.exe
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\bin\Debug\Entities.exe.config
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\bin\Debug\Entities.exe
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\bin\Debug\Entities.pdb
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.exe
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\Homework 10\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.pdb
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\bin\Debug\Entities.exe.config
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\bin\Debug\Entities.exe
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\bin\Debug\Entities.pdb
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.exe
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT_Homework_10_Part_6 (2)\OOP_PROJECT_Homework_10_Part_6\OOP_PROJECT\Entities\obj\Debug\Entities.pdb
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\bin\Debug\Entities.exe.config
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\bin\Debug\Entities.exe
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\bin\Debug\Entities.pdb
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.exe
+C:\Users\Shyndee\source\repos\OOP C# Programming 2\OOP_Project_stuff\OOP_PROJECT\Entities\obj\Debug\Entities.pdb
