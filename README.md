@@ -1,4 +1,4 @@
-#Warehouse Management System
+**Warehouse Management System**
 
 **Overview**
 
@@ -20,9 +20,8 @@ Programming Language: C#
 
 Architecture: 3-Tier (DAL, BL, UI)
 
+**3-Tier Architectured**
 
-**3-Tier Architecture
-**
 1. Data Access Layer (DAL)
 
 Responsible for direct database interactions.
@@ -45,16 +44,6 @@ Presents data to users and allows interactions.
 
 Calls BL for processing requests.
 
-
-**How to Run
-**
-Clone the repository:
-
-git clone https://github.com/yourusername/WarehouseManagementSystem.git
-
-Open the project in Visual Studio.
-
-Run the project from the UI layer.
 
 **License**
 
